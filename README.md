@@ -7,7 +7,8 @@ Data yok, sadece kod var, üzerine notlar aldım.
 
 Kodu indirip her hangi bir wrfout dosyası ile çalışabilir.
 
-Domain sınırlaması şuanlık yok 
+Kullanım ve çalıştırmayla ilgili aklıma gelen notları notebook içine yazdım.
+python betikleri ile ilgili detay bilgiler scriptlerin içinde. 
 
 Görsel sayısı az 
 
