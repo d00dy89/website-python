@@ -1,4 +1,4 @@
-# website-python
+# websitesi, wrf-python görselleştirme kodları
 
 
 Buraya wrfout çok büyük olduğu için yükleyemedim.
@@ -7,14 +7,14 @@ Data yok, sadece kod var, üzerine notlar aldım.
 
 Kodu indirip her hangi bir wrfout dosyası ile çalışabilir.
 
-Kullanım ve çalıştırmayla ilgili aklıma gelen notları notebook içine yazdım.
-python betikleri ile ilgili detay bilgiler scriptlerin içinde. 
+Kullanım ve çalıştırmayla ilgili aklıma gelen notlar ve şuanlık çıkan görseller notebook içinde.
 
-Görsel sayısı az 
+Betikler ile ilgili detay bilgiler ilgili betiğin içinde. 
+
+# Görsel sayısı az
 
 yml_files altındaki .yml dosyalarından kodun çalışması için environment yaratılabilir.
 
 (Çalışacağı kesin değil.)
 
 [Conda env management](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
-
