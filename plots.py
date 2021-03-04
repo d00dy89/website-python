@@ -114,7 +114,9 @@ def plot_rain(ncfile, basemap, show_option=True, save_option=True, frameNo='all'
         ...
     '''
     locale.setlocale(locale.LC_ALL,"tr_TR.utf8")
-
+    
+    # Yağış ve Kar değişkenlerinin veriden çekilme rutini istenilen saat uzunluğuna göre düzenlenmeli
+    
     rainc = getvar(ncfile, 'RAINC', timeidx=ALL_TIMES)
     rainnc = getvar(ncfile, 'RAINNC', timeidx=ALL_TIMES)
 
