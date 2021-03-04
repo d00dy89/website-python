@@ -1,4 +1,4 @@
-# websitesi, wrf-python görselleştirme kodları
+## websitesi, wrf-python görselleştirme kodları
 
 # Görsel sayısı çoğaltılmalı
 
@@ -9,6 +9,8 @@ Data yok, sadece kod var, üzerine notlar aldım.
 Kodu indirip her hangi bir wrfout dosyası ile çalışabilir.
 
 Kullanım ve çalıştırmayla ilgili aklıma gelen notlar ve şuanlık çıkan görseller notebook içinde.
+
+[Notebook](https://github.com/d00dy89/website-python/blob/main/Untitled.ipynb)
 
 Betikler ile ilgili detay bilgiler ilgili betiğin içinde. 
 
