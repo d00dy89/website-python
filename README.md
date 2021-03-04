@@ -1,5 +1,6 @@
 # websitesi, wrf-python görselleştirme kodları
 
+# Görsel sayısı çoğaltılmalı
 
 Buraya wrfout çok büyük olduğu için yükleyemedim.
 
@@ -11,7 +12,7 @@ Kullanım ve çalıştırmayla ilgili aklıma gelen notlar ve şuanlık çıkan 
 
 Betikler ile ilgili detay bilgiler ilgili betiğin içinde. 
 
-# Görsel sayısı az
+
 
 yml_files altındaki .yml dosyalarından kodun çalışması için environment yaratılabilir.
 
